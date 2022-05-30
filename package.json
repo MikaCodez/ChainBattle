@@ -1,0 +1,29 @@
+{
+  "name": "chainbattles",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.6.0",
+    "dotenv": "^16.0.1",
+    "hardhat": "^2.9.6"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "ethereum-waffle": "^3.4.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikaCodez/ChainBattle.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MikaCodez/ChainBattle/issues"
+  },
+  "homepage": "https://github.com/MikaCodez/ChainBattle#readme",
+  "description": ""
+}
